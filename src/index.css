@@ -13,3 +13,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav{
+  margin:15px;
+}
+
+.navLink{
+  margin-right: 10px;
+  font-size: large;
+}
+
+.movie_information{
+display: block;
+padding: 15px;
+}
+
+.movie_details{
+  display: flex;
+  margin: 15px;
+}
+
+main{
+  margin: 15px;
+}
+.trending {
+  margin: 15px;
+}
